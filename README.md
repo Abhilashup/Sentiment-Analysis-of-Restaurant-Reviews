@@ -11,4 +11,8 @@ This is a Natural Language Processing Model that can predict the sentiment of th
 
 ![predict_pos_page](https://user-images.githubusercontent.com/66258607/110284341-ac5f8680-8007-11eb-93c5-c80e221f3182.PNG)
 
+![home_page(neg)](https://user-images.githubusercontent.com/66258607/110284409-c8fbbe80-8007-11eb-9a14-1c60880f1299.PNG)
+
+
+
 
