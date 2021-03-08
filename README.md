@@ -23,6 +23,7 @@ https://restaurant-reviews-21.herokuapp.com/
 # Tech/Framework Used
 ![python](https://user-images.githubusercontent.com/66258607/110285426-3e1bc380-8009-11eb-84d1-0543a73f422d.png)
 
+![scikit-learn-logo](https://user-images.githubusercontent.com/66258607/110285544-673c5400-8009-11eb-9afa-cca3eba42a55.png)
 
 
 
