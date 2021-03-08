@@ -21,13 +21,21 @@ Before deploying, login to Heroku and create a new app. Once done, you can eithe
 https://restaurant-reviews-21.herokuapp.com/
 
 # Tech/Framework Used
+1. Python
+2. Scikit Learn
+3. Flask
+4. HTML
+5. Bootstrap
+
 ![python](https://user-images.githubusercontent.com/66258607/110285426-3e1bc380-8009-11eb-84d1-0543a73f422d.png)
 
 ![scikit-learn-logo](https://user-images.githubusercontent.com/66258607/110285544-673c5400-8009-11eb-9afa-cca3eba42a55.png)
 
 ![485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos](https://user-images.githubusercontent.com/66258607/110285841-ddd95180-8009-11eb-8b3a-c182f1f86276.png)
 
+![html5-40-1175193](https://user-images.githubusercontent.com/66258607/110309702-aed1d880-8027-11eb-95e9-01afec5fe66a.png)
 
 
-
+# Future Scope
+Improve the model even more as there are some words with respect to positive and negative reviews the model isn't predicting quite well. So, maybe adding more reviews to the datasets and re-training the model would help and I'm looking into how the model can be improved by doing so.
 
