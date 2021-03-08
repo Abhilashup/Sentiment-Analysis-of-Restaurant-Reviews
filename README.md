@@ -13,6 +13,15 @@ This is a Natural Language Processing Model that can predict the sentiment of th
 
 ![home_page(neg)](https://user-images.githubusercontent.com/66258607/110284409-c8fbbe80-8007-11eb-9a14-1c60880f1299.PNG)
 
+![predict_neg_page](https://user-images.githubusercontent.com/66258607/110284502-ec266e00-8007-11eb-8f33-cebb740f860c.PNG)
+
+# Deployment on Heroku
+Before deploying, login to Heroku and create a new app. Once done, you can either connect your GitHub profile and select deploy the branch or use Heroku CLI to deploy the project. The link to the deployed app is given below.
+https://restaurant-reviews-21.herokuapp.com/
+
+# Tech/Framework Used
+
+
 
 
 
