@@ -4,7 +4,7 @@
 The motivation behind this project is to predict if a review that is given by any customer is positive or negative. Maybe the restaurants can use this to identify which of them are positive and which are negative.
 
 # About
-This is a Natural Language Processing Model that can predict the sentiment of the review customers who visited a restaurant.
+This is a Natural Language Processing Model that can predict the sentiment of the reviews provided by customers who visited a restaurant. The model was built and trained on a dataset which had a number of customer reviews. 
 
 # Demo
 ![new_home_pos](https://user-images.githubusercontent.com/66258607/110311379-b4302280-8029-11eb-8963-f42cf305b8cd.PNG)
