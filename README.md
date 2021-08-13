@@ -18,7 +18,9 @@ This is a Natural Language Processing Model that can predict the sentiment of th
 # Deployment on Heroku
 Before deploying, login to Heroku and create a new app. Once done, you can either connect your GitHub profile and select deploy the branch or use Heroku CLI to deploy the project. 
 
-https://restaurant-reviews-21.herokuapp.com/
+**Link to the web app** : https://restaurant-reviews-21.herokuapp.com/
+
+**Note** : It may take a few seconds for the web app to open.
 
 # Tech/Framework Used
 1. Python
